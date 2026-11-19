@@ -1,0 +1,2 @@
+# Keep the favicon in the repository as a regular binary file.
+favicon.png -filter -diff -merge -text
